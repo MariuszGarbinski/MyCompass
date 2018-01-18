@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Compass</string>
+    <string name="opis_polnoc">Odchylenie w stopniach </string>
+    <string name="opis_szerokosc">Szerokość geograficzna </string>
+    <string name="opis_dlugosc">Długość geograficzna</string>
+    <string name="kompas">Kompas</string>
+    <string name="stopnie">0°</string>
+</resources>
